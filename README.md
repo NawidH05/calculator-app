@@ -3,6 +3,10 @@ this project i made is simple calculator built with python and tkinter.
 
 this project demonstrates GUI programming and clean code structure
 
+## Tech Stack
+- Language: Python
+- Library: Tkinter (GUI)
+
 ## Features
 - User-friendly graphical interface
 - includes addition, subtraction, multiplication, and division
@@ -14,6 +18,15 @@ this project demonstrates GUI programming and clean code structure
 
 ## screenshot
 ![screenshot.png](image.png)
+
+## calculator-app
+│
+├── calculator.py       # math logic
+├── ui.py               # Tkinter interface
+├── main.py             # entry point
+├── image.png           # screenshot
+├── README.md           # documentation
+└── requirements.txt    # requirements for program
 
 ## How to Run
 
