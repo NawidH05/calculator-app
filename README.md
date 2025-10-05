@@ -1,20 +1,26 @@
-# mini calculator app
-this project i made is simple calculator built with python and tkinter.
+# Mini Calculator App
 
-this project demonstrates GUI programming and clean code structure
+A simple desktop calculator built with **Python (Tkinter)** that performs basic arithmetic operations.  
+It provides a clean, responsive UI that supports addition, subtraction, multiplication, division, and decimal inputs.
 
-## Tech Stack
-- Language: Python
-- Library: Tkinter (GUI)
+---
 
 ## Features
-- User-friendly graphical interface
-- includes addition, subtraction, multiplication, and division
-- Clear (`C`) button to reset calculations
-- Structured into separate files:
-  - `calculator.py` → math logic
-  - `ui.py` → user interface (Tkinter)
-  - `main.py` → entry point`
+
+- Perform basic arithmetic (+, −, ×, ÷)
+- Real-time display of user input and results
+- Clear (“C”) button to reset the calculator
+- Intuitive keyboard-friendly interface (Tkinter GUI)
+- Lightweight and beginner-friendly project
+
+---
+
+## Tech Stack
+
+- **Language:** Python  
+- **GUI Framework:** Tkinter  
+
+---
 
 ## screenshot
 ![screenshot.png](image.png)
